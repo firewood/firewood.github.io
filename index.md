@@ -26,22 +26,26 @@ title: firewood
   - [Results of the Grand C++ Error Explosion Competition](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
     - [C++のコンパイルエラー爆発を競うコンテスト - Faith and Brave - C++で遊ぼう](http://faithandbrave.hateblo.jp/entry/2014/03/25/150659)
 
-- Code golf
+- Esolang
+  - [ELVM Compiler Infrastructure - 兼雑記](http://shinh.hatenablog.com/entry/2016/10/18/095437)
+    - [コンパイル中にコンパイルする「コンパイル時Cコンパイラ」をつくった話 - kw-udonの日記](http://kw-udon.hatenablog.com/entry/2016/12/03/201722)
+
+- Golf
   - [Anarchy Golf](http://golf.shinh.org/)
     - [Code Golf](http://shinh.skr.jp/dat_dir/golf_prosym.pdf)
   - [VimGolf - real Vim ninjas count every keystroke!](http://www.vimgolf.com/)
     - [もう大人だしこの春から(Vim)Golfを始めてみよう - ぼっち勉強会](http://kannokanno.hatenablog.com/entry/20130331/1364697842)
   - [ELF Golf](http://shinh.skr.jp/binary/fsij061115/)
 
-- esolang
-  - [ELVM Compiler Infrastructure - 兼雑記](http://shinh.hatenablog.com/entry/2016/10/18/095437)
-    - [コンパイル中にコンパイルする「コンパイル時Cコンパイラ」をつくった話 - kw-udonの日記](http://kw-udon.hatenablog.com/entry/2016/12/03/201722)
+- Life
+  - [コードを愛でる](http://shinh.skr.jp/slide/mederu/000.html)
+
+- Obfuscation
+  - [記号プログラミング Advent Calendar がアツい！ - 葉っぱ日記](http://d.hatena.ne.jp/hasegawayosuke/20101209/p1)
+  - [JavaScript難読化読経](https://www.slideshare.net/hasegawayosuke/javascript-51570525)
 
 - Quine
   - [Quine・難解プログラミングについて](https://www.slideshare.net/mametter/quine-10290517)
 
-- 記号プログラミング
-  - [記号プログラミング Advent Calendar がアツい！ - 葉っぱ日記](http://d.hatena.ne.jp/hasegawayosuke/20101209/p1)
-  - [JavaScript難読化読経](https://www.slideshare.net/hasegawayosuke/javascript-51570525)
-
-- [コードを愛でる](http://shinh.skr.jp/slide/mederu/000.html)
+- Ruby
+  - [Ruby を用いた超絶技巧プログラミング（夏のプログラミングシンポジウム 2012）](https://www.slideshare.net/mametter/ruby-2012)
