@@ -56,6 +56,9 @@ title: firewood
   - [記号プログラミング Advent Calendar がアツい！ - 葉っぱ日記](http://d.hatena.ne.jp/hasegawayosuke/20101209/p1)
   - [JavaScript難読化読経](https://www.slideshare.net/hasegawayosuke/javascript-51570525)
 
+- [Portable Executable](https://ja.wikipedia.org/wiki/Portable_Executable)
+  - [PE Golf](http://shinh.hatenablog.com/entries/2006/12/02)
+
 - Quine
   - [Quine・難解プログラミングについて](https://www.slideshare.net/mametter/quine-10290517)
 
@@ -64,4 +67,5 @@ title: firewood
 
 - Turing Complete
   - [Turing Complete FM](https://turingcomplete.fm/)
-  - [Accidentally Turing-Complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html) [うっかりチューリング完全になっちゃったもの](https://cpplover.blogspot.com/2013/10/blog-post_20.html)
+  - [Accidentally Turing-Complete](http://beza1e1.tuxen.de/articles/accidentally_turing_complete.html)
+    - [うっかりチューリング完全になっちゃったもの](https://cpplover.blogspot.com/2013/10/blog-post_20.html)
