@@ -52,8 +52,10 @@ title: firewood
   - [Linkers & Loaders](https://www.amazon.co.jp/dp/4274064379)
   - [カジュアルに実行時リンク&ロードする](http://shinh.skr.jp/slide/dynload/000.html)
 
+- Longest API name
+  - [API名最長選手権](https://qiita.com/yohhoy/items/b61d175e161ce3493096)
+
 - Obfuscation
-  - [記号プログラミング Advent Calendar がアツい！ - 葉っぱ日記](http://d.hatena.ne.jp/hasegawayosuke/20101209/p1)
   - [JavaScript難読化読経](https://www.slideshare.net/hasegawayosuke/javascript-51570525)
 
 - [Portable Executable](https://ja.wikipedia.org/wiki/Portable_Executable)
@@ -64,6 +66,10 @@ title: firewood
 
 - Ruby
   - [Ruby を用いた超絶技巧プログラミング（夏のプログラミングシンポジウム 2012）](https://www.slideshare.net/mametter/ruby-2012)
+
+- Symbol-only programming
+  - [記号プログラミング Advent Calendar](http://perl-users.jp/articles/advent-calendar/2010/sym/)
+    - [記号プログラミング Advent Calendar がアツい！ - 葉っぱ日記](http://d.hatena.ne.jp/hasegawayosuke/20101209/p1)
 
 - Turing Complete
   - [Turing Complete FM](https://turingcomplete.fm/)
