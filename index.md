@@ -16,14 +16,13 @@ title: firewood
 
 - Algorithm
   - [画期的（？）なソートアルゴリズム「Sleep Sort」：濃縮還元オレンジニュース｜gihyo.jp … 技術評論社](http://gihyo.jp/dev/clip/01/orangenews/vol63/0006)
+    - [Sleep Sort ( Craziest Sorting Algorithm ) in 1 Minute with Visualisation & Code](https://www.youtube.com/watch?v=Cp9mdJmVtvo)
 
 - Binarian
   - [Binary Hacks ―ハッカー秘伝のテクニック100選](https://www.amazon.co.jp/dp/4873112885)
   - [目grep入門 +解説](https://www.slideshare.net/murachue/grep-8132856)
 
 - C/C++
-  - [IOCCC](http://www0.us.ioccc.org/)
-    - [ひたすら読みにくいCコード:Geekなぺーじ](http://www.geekpage.jp/blog/?id=2007/1/12)
   - [Results of the Grand C++ Error Explosion Competition](https://tgceec.tumblr.com/post/74534916370/results-of-the-grand-c-error-explosion)
     - [C++のコンパイルエラー爆発を競うコンテスト - Faith and Brave - C++で遊ぼう](http://faithandbrave.hateblo.jp/entry/2014/03/25/150659)
 
@@ -44,6 +43,10 @@ title: firewood
   - [VimGolf - real Vim ninjas count every keystroke!](http://www.vimgolf.com/)
     - [もう大人だしこの春から(Vim)Golfを始めてみよう - ぼっち勉強会](http://kannokanno.hatenablog.com/entry/20130331/1364697842)
   - [ELF Golf](http://shinh.skr.jp/binary/fsij061115/)
+
+- IOCCC
+  - [The International Obfuscated C Code Contest](https://www.ioccc.org/years-spoiler.html)
+    - [ひたすら読みにくいCコード:Geekなぺーじ](http://www.geekpage.jp/blog/?id=2007/1/12)
 
 - Life
   - [コードを愛でる](http://shinh.skr.jp/slide/mederu/000.html)
