@@ -30,3 +30,6 @@ markdown: kramdown
 
 exclude:
   - bin/
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
