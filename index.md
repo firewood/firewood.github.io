@@ -36,6 +36,7 @@ title: firewood
 
 - Fizz Buzz
   - [anarchy golf - FizzBuzz](http://golf.shinh.org/p.rb?FizzBuzz)
+  - [Sleep FizzBuzz](https://zenn.dev/mattn/articles/37fc825cba8fd2)
 
 - Golf
   - [Anarchy Golf](http://golf.shinh.org/)
@@ -44,11 +45,14 @@ title: firewood
     - [もう大人だしこの春から(Vim)Golfを始めてみよう - ぼっち勉強会](http://kannokanno.hatenablog.com/entry/20130331/1364697842)
   - [ELF Golf](http://shinh.skr.jp/binary/fsij061115/)
 
+- Hello World
+  - [難解言語 Malbolge は HelloWorld に「2 年」かかった](https://qiita.com/reika727/items/1e5f4fb54916c6fed483)
+
 - IOCCC
   - [The International Obfuscated C Code Contest](https://www.ioccc.org/years-spoiler.html)
     - [ひたすら読みにくいCコード:Geekなぺーじ](http://www.geekpage.jp/blog/?id=2007/1/12)
 
-- Life
+- Lifework
   - [コードを愛でる](http://shinh.skr.jp/slide/mederu/000.html)
 
 - Linkers & Loaders
